@@ -1,0 +1,45 @@
+table{
+    margin-left: 500px;
+    color: white;
+    text-align: center;
+    width: 100px;
+}
+td, th{
+    padding: 18px;
+    background-color: blue;
+    border: 3px solid black;
+    border-collapse: collapse;
+    border-radius: 20px;
+    border-style: dashed;
+    border-color: brown;
+    
+
+}
+td{
+    width: 70%;
+}
+
+
+
+table{
+    margin: left 400px; 
+    font-size: 30px;
+    padding: 20px;
+
+}
+
+
+
+th{
+    border: 2px solid black;
+    padding: 20px;
+    text-align: center;
+}
+
+td{
+    width: 60px;
+}
+
+
+
+
